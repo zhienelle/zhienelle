@@ -1,5 +1,3 @@
-# Karyle-Zhienelle-Baylon
-
 <h1 align="center">Karyle Zhienelle Baylon</h1>
 
 <p align="center">
